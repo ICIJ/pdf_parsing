@@ -1,0 +1,5 @@
+,Item,Unit Cost,Quantity,Amount
+0,Subscription,$19.00,1,$19.00
+1,,,Subtotal,$19.00
+2,,,Tax Rate,0%
+3,,,Amount Due,$19.00

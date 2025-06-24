@@ -3,5 +3,9 @@
 ## Presentation
 - slides are available [here](presentation.pdf)
 
-## Code examples (coming soon!)
-
+## Examples
+Using [uv](https://docs.astral.sh/uv/):
+```console
+uv run jupyter notebook .
+```
+Then run [the PDF parsing notebook](pdf_parsing/parsing_examples.ipynb).
